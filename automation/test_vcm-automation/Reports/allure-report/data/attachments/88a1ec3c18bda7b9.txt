@@ -1,0 +1,37 @@
+Run Started at :2020-04-19 19:43:11.133324
+Chrome Environment Set Up
+------------------------------------------------------------------
+Home Page loaded successfully
+Login DropDown Assertion is Passed
+User Name Field Assertion is Passed
+Password Field Assertion is Passed
+Login Button Assertion is Passed
+User Management Icon Assertion is Passed
+Application Role  Assertion is Passed
+Add Application-Role Assertion is passed
+Application Module Selection DropDown Assertion is Passed
+Selection of Value one from Dropdown list Assertion is Passed
+Selection of Value Two from Dropdown list Assertion is Passed
+Selection of Value Three from Dropdown list Assertion is Passed
+Dropdown list Closure Assertion is Passed 
+Dropdown list Closure Assertion is Failed Due To :  Message: element click intercepted: Element <div class="v-input__append-inner">...</div> is not clickable at point (1197, 323). Other element would receive the click: <div tabindex="0" aria-selected="false" aria-labelledby="list-item-617-8" role="option" class="v-list-item v-list-item--link theme--light">...</div>
+  (Session info: chrome=80.0.3987.163)
+
+Add Name Field Assertion is Passed
+Add Description Field Assertion is Passed
+Add Continue Assertion is Passed
+Add Continue Assertion is Failed Due To : Message: element click intercepted: Element <span class="v-btn__content">...</span> is not clickable at point (1163, 430). Other element would receive the click: <div tabindex="0" aria-selected="false" aria-labelledby="list-item-617-12" role="option" class="v-list-item v-list-item--link theme--light">...</div>
+  (Session info: chrome=80.0.3987.163)
+
+Add Keyword Search Field Assertion is Passed
+Vendor Compliance Option Assertion is Passed
+Vendor Compliance Option Selection Assertion is Passed
+Keyword Search Field Clear Assertion is Passed
+Meeting Management Option Selection Assertion is Passed
+Meeting Managemeent Selection Assertion is Passed
+Message: stale element reference: element is not attached to the page document
+  (Session info: chrome=80.0.3987.163)
+
+------------------------------------------------------------------
+Test Environment Destroyed
+Run Completed at :2020-04-19 19:44:28.700981

@@ -1,0 +1,21 @@
+[ {
+  "uid" : "872b349abee4bb8",
+  "name" : "test_user_management_flow",
+  "time" : {
+    "start" : 1587307388414,
+    "stop" : 1587307468807,
+    "duration" : 80393
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "d286de03789c4dc8",
+  "name" : "test_loginflow",
+  "time" : {
+    "start" : 1587307377086,
+    "stop" : 1587307388399,
+    "duration" : 11313
+  },
+  "status" : "passed",
+  "severity" : "normal"
+} ]

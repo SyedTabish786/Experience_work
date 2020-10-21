@@ -1,0 +1,39 @@
+{
+  "uid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+  "name" : "timeline",
+  "children" : [ {
+    "name" : "usas-MBP",
+    "children" : [ {
+      "name" : "2181-MainThread",
+      "children" : [ {
+        "name" : "test_loginflow",
+        "uid" : "d286de03789c4dc8",
+        "parentUid" : "013406e8db93464b6c10428118cf7215",
+        "status" : "passed",
+        "time" : {
+          "start" : 1587307377086,
+          "stop" : 1587307388399,
+          "duration" : 11313
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_user_management_flow",
+        "uid" : "872b349abee4bb8",
+        "parentUid" : "013406e8db93464b6c10428118cf7215",
+        "status" : "broken",
+        "time" : {
+          "start" : 1587307388414,
+          "stop" : 1587307468807,
+          "duration" : 80393
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "013406e8db93464b6c10428118cf7215"
+    } ],
+    "uid" : "f64beab8f98b6a5a738de7f0e8a4bad1"
+  } ]
+}

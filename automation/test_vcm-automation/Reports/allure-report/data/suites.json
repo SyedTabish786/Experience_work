@@ -1,0 +1,51 @@
+{
+  "uid" : "98d3104e051c652961429bf95fa0b5d6",
+  "name" : "suites",
+  "children" : [ {
+    "name" : "test_Scripts",
+    "children" : [ {
+      "name" : "test_vcm_login_page",
+      "children" : [ {
+        "name" : "vcm_login_page",
+        "children" : [ {
+          "name" : "test_loginflow",
+          "uid" : "d286de03789c4dc8",
+          "parentUid" : "9de3d1ccf0062a94aaad29a78e7614b9",
+          "status" : "passed",
+          "time" : {
+            "start" : 1587307377086,
+            "stop" : 1587307388399,
+            "duration" : 11313
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        } ],
+        "uid" : "9de3d1ccf0062a94aaad29a78e7614b9"
+      } ],
+      "uid" : "aa82d6d25b71c2485ebe28b91db23560"
+    }, {
+      "name" : "test_vcm_user_management_page",
+      "children" : [ {
+        "name" : "vcm_user_managementPage",
+        "children" : [ {
+          "name" : "test_user_management_flow",
+          "uid" : "872b349abee4bb8",
+          "parentUid" : "c9dfe1d702088c29fbed391d33a55102",
+          "status" : "broken",
+          "time" : {
+            "start" : 1587307388414,
+            "stop" : 1587307468807,
+            "duration" : 80393
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        } ],
+        "uid" : "c9dfe1d702088c29fbed391d33a55102"
+      } ],
+      "uid" : "af4f43306c32f47c2157e7a5b418cfea"
+    } ],
+    "uid" : "6e8b8d926d63a01adcd0f490e2c614c2"
+  } ]
+}

@@ -1,0 +1,41 @@
+{
+  "b65228842cf2ebda435759ceb7de3e94" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "872b349abee4bb8",
+      "status" : "broken",
+      "statusDetails" : "TimeoutException: Message:",
+      "time" : {
+        "start" : 1587307388414,
+        "stop" : 1587307468807,
+        "duration" : 80393
+      }
+    } ]
+  },
+  "d4a8e8c873aebc51b8af4a0e4f51d50d" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "d286de03789c4dc8",
+      "status" : "passed",
+      "time" : {
+        "start" : 1587307377086,
+        "stop" : 1587307388399,
+        "duration" : 11313
+      }
+    } ]
+  }
+}

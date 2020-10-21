@@ -1,0 +1,11 @@
+Run Started at :2020-04-19 19:42:59.515909
+Chrome Environment Set Up
+------------------------------------------------------------------
+Home Page loaded successfully
+Login DropDown Assertion is Passed
+User Name Field Assertion is Passed
+Password Field Assertion is Passed
+Login Button Assertion is Passed
+------------------------------------------------------------------
+Test Environment Destroyed
+Run Completed at :2020-04-19 19:43:08.252132
