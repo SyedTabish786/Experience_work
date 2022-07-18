@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="05cae908-9f97-4cc1-ab28-a574e8d3222f" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="2AWRSonsMYFx45U1AQZXJR7UyAX" />
+  <component name="ProjectViewState">
+    <option name="foldersAlwaysOnTop" value="false" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/VENV/bin" />
+    <property name="run.code.analysis.last.selected.profile" value="aDefault" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/Resources" />
+      <recent name="$PROJECT_DIR$/Tests/TestData" />
+      <recent name="$PROJECT_DIR$/Tests/NopCommerce/FunctionalTestSuite/setting_up_robot" />
+      <recent name="$PROJECT_DIR$/Tests/NopCommerce/FunctionalTestSuite/Handle_waits_and_timeouts" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/VENV/bin" />
+      <recent name="$PROJECT_DIR$/Resources/Driver" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="05cae908-9f97-4cc1-ab28-a574e8d3222f" name="Default Changelist" comment="" />
+      <created>1655123356952</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1655123356952</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="104" y="62" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1655133880694">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state x="104" y="62" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1280.800@0.0.1280.800" timestamp="1655133880694" />
+    <state x="399" y="278" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1657877314211">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state x="399" y="278" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.0.1280.800@0.0.1280.800" timestamp="1657877314211" />
+    <state x="149" y="39" key="SettingsEditor" timestamp="1658094332050">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state x="149" y="39" key="SettingsEditor/0.0.1280.800@0.0.1280.800" timestamp="1658094332050" />
+    <state x="319" y="232" key="com.intellij.ide.util.TipDialog" timestamp="1658132001257">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state x="319" y="232" key="com.intellij.ide.util.TipDialog/0.0.1280.800@0.0.1280.800" timestamp="1658132001257" />
+    <state x="319" y="232" key="com.intellij.ide.util.TipDialog/0.23.1280.777@0.23.1280.777" timestamp="1657711319420" />
+  </component>
+</project>
